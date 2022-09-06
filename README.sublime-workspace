@@ -1,0 +1,782 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"m",
+				"mysql_close"
+			],
+			[
+				"Gra",
+				"grafico_horizontal"
+			],
+			[
+				"std",
+				"stdio"
+			],
+			[
+				"pe",
+				"print_pessoa"
+			],
+			[
+				"pri",
+				"print_turma"
+			],
+			[
+				"alu",
+				"aluno_4"
+			],
+			[
+				"prin",
+				"prinf_turma"
+			],
+			[
+				"p",
+				"professor"
+			],
+			[
+				"a",
+				"aluno_3"
+			],
+			[
+				"ma",
+				"matriz"
+			],
+			[
+				"t",
+				"tamanho"
+			],
+			[
+				"in",
+				"include"
+			],
+			[
+				"de",
+				"decrementoVetor"
+			],
+			[
+				"re",
+				"return"
+			],
+			[
+				"ret",
+				"return"
+			],
+			[
+				"mos",
+				"mostraSoma"
+			],
+			[
+				"mo",
+				"mostraantecessor"
+			],
+			[
+				"s",
+				"scanf"
+			],
+			[
+				"f",
+				"float"
+			],
+			[
+				"op",
+				"option\tTag"
+			],
+			[
+				"radi",
+				"radio-email"
+			],
+			[
+				"b",
+				"background\tproperty"
+			],
+			[
+				"bor",
+				"border-color"
+			],
+			[
+				"magi",
+				"margin-top\tproperty"
+			],
+			[
+				"bo",
+				"box-sizing\tproperty"
+			],
+			[
+				"fon",
+				"font-size\tproperty"
+			],
+			[
+				"mar",
+				"margin\tproperty"
+			],
+			[
+				"col",
+				"color\tproperty"
+			],
+			[
+				"te",
+				"text-transform\tproperty"
+			],
+			[
+				"he",
+				"header\tTag"
+			],
+			[
+				"li",
+				"link\tTag"
+			],
+			[
+				"ti",
+				"title\tTag"
+			],
+			[
+				"margi",
+				"margin-left\tproperty"
+			],
+			[
+				"bl",
+				"inline-block\tdisplay"
+			],
+			[
+				"text",
+				"text-align\tproperty"
+			],
+			[
+				"bla",
+				"background-color\tproperty"
+			],
+			[
+				"font-s",
+				"font-style\tproperty"
+			],
+			[
+				"fo",
+				"font\tproperty"
+			],
+			[
+				"wi",
+				"width\tproperty"
+			],
+			[
+				"st",
+				"style\tTag"
+			],
+			[
+				"font",
+				"font-size\tproperty"
+			],
+			[
+				"first",
+				"first_line_values"
+			],
+			[
+				"desen",
+				"desenhaBarra"
+			],
+			[
+				"dese",
+				"desenhaBarra"
+			],
+			[
+				"des",
+				"desenhaTexto"
+			],
+			[
+				"fillSt",
+				"fillStyle"
+			],
+			[
+				"fun",
+				"function"
+			],
+			[
+				"fill",
+				"fillStyle"
+			],
+			[
+				"fil",
+				"fillStyle"
+			],
+			[
+				"so",
+				"sorteiNumeros"
+			],
+			[
+				"nume",
+				"numeroAleatorio"
+			],
+			[
+				"n",
+				"numeroAleatorio"
+			],
+			[
+				"numero",
+				"sorteiNumeros"
+			],
+			[
+				"segr",
+				"segredos"
+			],
+			[
+				"me",
+				"mediaDasIdades"
+			],
+			[
+				"to",
+				"totalIdades"
+			],
+			[
+				"tota",
+				"totalIdade"
+			],
+			[
+				"tot",
+				"totalFamiliares"
+			],
+			[
+				"ten",
+				"tentativaAtual"
+			],
+			[
+				"pro",
+				"prompt"
+			],
+			[
+				"peso",
+				"pesoInformado"
+			],
+			[
+				"al",
+				"alturaInformada"
+			],
+			[
+				"va",
+				"valorTotal"
+			],
+			[
+				"imc",
+				"imcPesoAntigo"
+			],
+			[
+				"im",
+				"imcSilvan"
+			],
+			[
+				"cal",
+				"calculaImc"
+			],
+			[
+				"fu",
+				"function"
+			],
+			[
+				"met",
+				"meta\tTag"
+			],
+			[
+				"linha",
+				"linha"
+			],
+			[
+				"ve",
+				"vetor1"
+			],
+			[
+				"posicao",
+				"posicao"
+			],
+			[
+				"novo",
+				"novo_mapa"
+			],
+			[
+				"MOVI",
+				"movimentos"
+			],
+			[
+				"no",
+				"novo_mapa"
+			],
+			[
+				"posi",
+				"posicoes"
+			],
+			[
+				"MOVIM",
+				"movimento"
+			],
+			[
+				"anda",
+				"anda_coluna"
+			],
+			[
+				"estour",
+				"estourou_linhas"
+			],
+			[
+				"co",
+				"coluna"
+			],
+			[
+				"ca",
+				"cabeca"
+			],
+			[
+				"le",
+				"le_rank"
+			],
+			[
+				"pon",
+				"pontos_totais"
+			],
+			[
+				"ponto",
+				"pontos_totais"
+			],
+			[
+				"se",
+				"secreta"
+			],
+			[
+				"P",
+				"Palavra"
+			],
+			[
+				"letra",
+				"letra"
+			],
+			[
+				"chu",
+				"chutes"
+			],
+			[
+				"do",
+				"do"
+			],
+			[
+				"palvra",
+				"palavra_secreta"
+			],
+			[
+				"pont",
+				"pontos_ate_agora"
+			],
+			[
+				"pala",
+				"palavra_secreta"
+			],
+			[
+				"w",
+				"when\twhen …"
+			],
+			[
+				"els",
+				"else"
+			],
+			[
+				"difi",
+				"pede_dificuldade"
+			],
+			[
+				"di",
+				"dificuldade"
+			],
+			[
+				"chute",
+				"chute"
+			],
+			[
+				"numer",
+				"numero_secreto"
+			],
+			[
+				"end",
+				"end"
+			],
+			[
+				"num",
+				"numero_secreto"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+		[
+			[
+				[
+					"Packages/C++/C Single File.sublime-build",
+					""
+				],
+				[
+					"Packages/C++/C Single File.sublime-build",
+					"Run"
+				]
+			],
+			[
+				"Packages/C++/C Single File.sublime-build",
+				"Run"
+			]
+		],
+		[
+			[
+				[
+					"Packages/C++/C++ Single File.sublime-build",
+					""
+				],
+				[
+					"Packages/C++/C++ Single File.sublime-build",
+					"Run"
+				]
+			],
+			[
+				"Packages/C++/C++ Single File.sublime-build",
+				"Run"
+			]
+		]
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"terminal",
+				"Terminus: Toggle Panel"
+			],
+			[
+				"termina",
+				"Terminus: Toggle Panel"
+			],
+			[
+				"painel",
+				"Package Control: Install Local Dependency"
+			],
+			[
+				"TERMINAL",
+				"Terminus: Toggle Panel"
+			],
+			[
+				"terminan",
+				"Terminus: Toggle Panel"
+			],
+			[
+				"terminal ",
+				"Terminus: Toggle Panel"
+			],
+			[
+				"termin",
+				"Terminus: Open Default Shell in Tab (View)"
+			],
+			[
+				"packe",
+				"Package Control: Install Package"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: ",
+				"Package Control: Install Package"
+			],
+			[
+				"pac",
+				"Install Package Control"
+			],
+			[
+				"console",
+				"Set Syntax: R Console"
+			]
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 156.0,
+		"history":
+		[
+			"gcc first.c",
+			"ls",
+			"maior_ou_menor",
+			"ls",
+			"rrr"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/silvansilva/Documents/Cursos/Udemy/C++ Moderno Avançado/mysql/update.cpp",
+		"/Users/silvansilva/Documents/Cursos/Udemy/C++ Moderno Avançado/mysql/comandos.txt",
+		"/Users/silvansilva/Documents/Cursos/Udemy/C++ Moderno Avançado/mysql/connect.cpp",
+		"/Users/silvansilva/Documents/Cursos/Udemy/C++ Moderno Avançado/mysql/read.cpp",
+		"/Users/silvansilva/Documents/Cursos/Udemy/C++ Moderno Avançado/mysql/create.cpp",
+		"/Users/silvansilva/Documents/Cursos/Udemy/C++ Moderno Avançado/mysql/connect2.cpp",
+		"/Users/silvansilva/Documents/Cursos/Udemy/C++ Moderno Avançado/mysql/connect1.cpp",
+		"/Users/silvansilva/Documents/Cursos/Udemy/C++ Moderno Avançado/mysql/mysql.cpp",
+		"/Users/silvansilva/Documents/UFPB/2021.1/ProgramacaoEstruturada/struct.c",
+		"/Users/silvansilva/Documents/UFPB/2021.1/ProgramacaoEstruturada/structTypeDef.c",
+		"/Users/silvansilva/Documents/UFPB/2021.1/ProgramacaoEstruturada/structTurma.c",
+		"/Users/silvansilva/Documents/UFPB/2021.1/ProgramacaoEstruturada/reverse.c",
+		"/Users/silvansilva/Documents/Cursos/Udemy/Programacao C C++/function.h",
+		"/Users/silvansilva/Documents/Cursos/Udemy/Programacao C C++/matriz.cpp",
+		"/Users/silvansilva/Documents/JOGO BET/Planejamento.txt",
+		"/Users/silvansilva/Documents/Cursos/Udemy/Programacao C C++/alocacaoDinamicaVetorC++.cpp",
+		"/Users/silvansilva/Documents/Cursos/Udemy/Programacao C C++/alocacaoDinamicaVetor.c",
+		"/Users/silvansilva/Documents/Cursos/Udemy/Programacao C C++/funcaoComMaisParametro.c",
+		"/Users/silvansilva/Documents/Cursos/Udemy/Programacao C C++/funcaoVetor.c",
+		"/Users/silvansilva/Documents/Cursos/Udemy/Programacao C C++/funcaoBooleana.c",
+		"/Users/silvansilva/Documents/Cursos/Udemy/Programacao C C++/funcaoChar.c",
+		"/Users/silvansilva/Documents/Cursos/Udemy/Programacao C C++/funcaoInteira.c",
+		"/Users/silvansilva/Documents/Cursos/Udemy/Programacao C C++/funcao.c",
+		"/Users/silvansilva/Documents/Cursos/Udemy/Programacao C C++/testeC++.cpp",
+		"/Users/silvansilva/Documents/Cursos/Udemy/Programacao C C++/string.cpp",
+		"/Users/silvansilva/Documents/Cursos/Udemy/Programacao C C++/vetor2.c",
+		"/Users/silvansilva/Documents/Cursos/Udemy/Programacao C C++/vetor.c",
+		"/Users/silvansilva/Documents/Cursos/Udemy/Programacao C C++/primo.c",
+		"/Users/silvansilva/Documents/Cursos/Udemy/Programacao C C++/imprimirPar.c",
+		"/Users/silvansilva/Documents/Cursos/Udemy/Programacao C C++/lacoregressivo.c",
+		"/Users/silvansilva/Documents/Cursos/Udemy/Programacao C C++/constantes.c",
+		"/Users/silvansilva/Documents/Cursos/Udemy/Programacao C C++/menuDeSelecao.c",
+		"/Users/silvansilva/Documents/Cursos/Udemy/Programacao C C++/for.c",
+		"/Users/silvansilva/Documents/Cursos/Udemy/Programacao C C++/DoWhile.c",
+		"/Users/silvansilva/Documents/Cursos/Udemy/Programacao C C++/lacoRepeticaoWhile.c",
+		"/Users/silvansilva/Documents/UFPB/2021.1/ProgramacaoEstruturada/10_exercicio_ponteira.c",
+		"/Users/silvansilva/Documents/UFPB/2021.1/ProgramacaoEstruturada/array3.c",
+		"/Users/silvansilva/Documents/UFPB/2021.1/ProgramacaoEstruturada/07_exercio_array.c",
+		"/Users/silvansilva/Documents/UFPB/2021.1/ProgramacaoEstruturada/test.c",
+		"/Users/silvansilva/Documents/UFPB/2021.1/ProgramacaoEstruturada/questionario2Implementacao.c",
+		"/Users/silvansilva/Documents/UFPB/2021.1/ProgramacaoEstruturada/aula2.c",
+		"/Users/silvansilva/Documents/UFPB/2021.1/ProgramacaoEstruturada/first.c",
+		"/Users/silvansilva/Documents/UFPB/2021.1/ProgramacaoEstruturada/teste.c",
+		"/Users/silvansilva/Documents/Cursos/ALURA/SQL/3_Manipulando_Dados/Chave+Criação+Banco+de+Dados.sql",
+		"/Users/silvansilva/Documents/Cursos/ALURA/SQL/1 INTRODUCAO SQL/SUCOS_VENDAS.BAK",
+		"/Users/silvansilva/Documents/Cursos/Instalando SQL no MAC/Video de instalação",
+		"/Users/silvansilva/Documents/Cursos/ALURA/SQL/Excluindo+registros.sql",
+		"/Users/silvansilva/Documents/Cursos/ALURA/SQL/Criando+Banco+de+Dados+-+Exemplo+1.sql",
+		"/Users/silvansilva/Documents/Cursos/ALURA/Desenvolvedor Web/HTML5 CSS3/Parte 3/Index.html",
+		"/Users/silvansilva/Documents/Cursos/ALURA/Desenvolvedor Web/HTML5 CSS3/Parte 3/produtos.html",
+		"/Users/silvansilva/Documents/Cursos/ALURA/Desenvolvedor Web/HTML5 CSS3/Parte 3/style-home.css",
+		"/Users/silvansilva/Documents/Cursos/ALURA/Desenvolvedor Web/HTML5 CSS3/Parte 2/produtos.css",
+		"/Users/silvansilva/Documents/Cursos/ALURA/Desenvolvedor Web/HTML5 CSS3/Parte 2/produtos.html",
+		"/Users/silvansilva/Documents/Cursos/ALURA/Desenvolvedor Web/HTML5 CSS3/Parte 2/style.css",
+		"/Users/silvansilva/Documents/Cursos/ALURA/Desenvolvedor Web/HTML5 CSS3/Parte 2/Index.html",
+		"/Users/silvansilva/Documents/Cursos/ALURA/Desenvolvedor Web/HTML5 CSS3/Parte 1/Index.html",
+		"/Users/silvansilva/Documents/Cursos/ALURA/Desenvolvedor Web/HTML5 CSS3/Parte 2/Site Unicode.txt",
+		"/Users/silvansilva/Documents/Cursos/ALURA/Desenvolvedor Web/HTML5 CSS3/Parte 2/reset.css",
+		"/Users/silvansilva/Documents/Cursos/ALURA/Desenvolvedor Web/HTML5 CSS3/Parte 1/style.css",
+		"/Users/silvansilva/Documents/UFPB/2020.1/GIT/minha/ICD/git_18_10_20/icd/datasets/B2019.csv",
+		"/Users/silvansilva/Documents/UFPB/2020.1/GIT/minha/ICD/tableview/example.py",
+		"/Users/silvansilva/Documents/UFPB/2020.1/GIT/minha/ICD/tableview/tableview.py",
+		"/Users/silvansilva/Documents/UFPB/2020.1/GIT/minha/ICD/tableview/README.md",
+		"/Users/silvansilva/Documents/UFPB/2020.1/GIT/minha/ICD/README.md",
+		"/Users/silvansilva/Documents/UFPB/2020.1/GIT/icd/README.md",
+		"/Users/silvansilva/Documents/Relie/GT EMGEA CONTABIL/Subconta_EMGEA2 consulta 2020.xlsx",
+		"/Users/silvansilva/Documents/Cursos/ALURA/PROGRAMAÇAO/Linguagem C C++/duasVariavelInt.c",
+		"/Users/silvansilva/Documents/Cursos/ALURA/PROGRAMAÇAO/Linguagem C C++/Copilar.txt",
+		"/Users/silvansilva/Documents/Cursos/ALURA/PROGRAMAÇAO/Linguagem C C++/programa.c",
+		"/Users/silvansilva/Documents/UFPB/2019/Introdução a Programação /LIVRO/EXERCICIO RESOLVIDO.txt",
+		"/Users/silvansilva/Documents/UFPB/2019/Metodologia Científica/projeto/link doc projeto de pesquisa.txt",
+		"/Users/silvansilva/Documents/UFPB/2019/Introdução a Computação /EQUACAO POLIMINAL.TXT",
+		"/Users/silvansilva/Documents/UFPB/2019/Cálculo vetorial/N2/reta e planos.txt",
+		"/Users/silvansilva/Documents/UFPB/2019/Introdução a Computação /link sobre erro relativo",
+		"/Users/silvansilva/Documents/UFPB/2019/Introdução a Programação /lista2/1T.py",
+		"/Users/silvansilva/Documents/UFPB/2019/Cálculo vetorial/FAVORITO.TXT",
+		"/Users/silvansilva/Documents/Cursos/ALURA/PROGRAMAÇAO/Logica de programaçao II - pratique com desenhos animacao e um jogo/aula 3/bolinha_emagrece.html",
+		"/Users/silvansilva/Documents/Cursos/ALURA/PROGRAMAÇAO/Logica de programaçao II - pratique com desenhos animacao e um jogo/aula 3/bolinhaVirouBolao.html",
+		"/Users/silvansilva/Documents/Cursos/ALURA/PROGRAMAÇAO/Logica de programaçao II - pratique com desenhos animacao e um jogo/aula 3/trocandoDeCor.html",
+		"/Users/silvansilva/Documents/Cursos/ALURA/PROGRAMAÇAO/Logica de programaçao II - pratique com desenhos animacao e um jogo/aula 3/testa_if.html",
+		"/Users/silvansilva/Documents/Cursos/ALURA/PROGRAMAÇAO/Logica de programaçao II - pratique com desenhos animacao e um jogo/aula 3/desenhaBolinha.html",
+		"/Users/silvansilva/Documents/Cursos/ALURA/PROGRAMAÇAO/Logica de programaçao II - pratique com desenhos animacao e um jogo/aula 3/bolinha_q_virou_bolao.html",
+		"/Users/silvansilva/Downloads/Untitled Diagram.drawio-2.xml",
+		"/Users/silvansilva/Documents/Cursos/ALURA/PROGRAMAÇAO/Logica de programaçao II - pratique com desenhos animacao e um jogo/aula 2/trocando_de_cor.html",
+		"/Users/silvansilva/Documents/Cursos/ALURA/PROGRAMAÇAO/Logica de programaçao II - pratique com desenhos animacao e um jogo/aula 2/aprendi.html",
+		"/Users/silvansilva/Documents/Cursos/ALURA/PROGRAMAÇAO/Logica de programaçao II - pratique com desenhos animacao e um jogo/aula 2/triangulo.html",
+		"/Users/silvansilva/Documents/Cursos/ALURA/PROGRAMAÇAO/Logica de programaçao II - pratique com desenhos animacao e um jogo/aula 1/grafico_barras.html",
+		"/Users/silvansilva/Documents/Cursos/ALURA/PROGRAMAÇAO/Logica de programaçao II - pratique com desenhos animacao e um jogo/aula 1/fracoes.html",
+		"/Users/silvansilva/Documents/Cursos/ALURA/PROGRAMAÇAO/Logica de programaçao II - pratique com desenhos animacao e um jogo/aula 1/desenha_circulo.html",
+		"/Users/silvansilva/Documents/Cursos/ALURA/PROGRAMAÇAO/Logica de programaçao II - pratique com desenhos animacao e um jogo/aula 1/programa2.html",
+		"/Users/silvansilva/Documents/Cursos/ALURA/PROGRAMAÇAO/Logica de programaçao II - pratique com desenhos animacao e um jogo/aula 1/bandeira_nacional.html",
+		"/Users/silvansilva/Documents/Cursos/ALURA/PROGRAMAÇAO/Logica de programaçao II - pratique com desenhos animacao e um jogo/aula 1/esquadro.html",
+		"/Users/silvansilva/Documents/Cursos/ALURA/PROGRAMAÇAO/Logica de programaçao II - pratique com desenhos animacao e um jogo/aula 1/Creeper.html",
+		"/Users/silvansilva/Documents/Cursos/ALURA/PROGRAMAÇAO/Logica de programaçao II - pratique com desenhos animacao e um jogo/aula 1/programa.html",
+		"/Users/silvansilva/Documents/Cursos/ALURA/PROGRAMAÇAO/Lógica de programação I. Os primeiros programas com Javascript e HTML/aula9/adivinha_mais2.html",
+		"/Users/silvansilva/Documents/Cursos/ALURA/PROGRAMAÇAO/Lógica de programação I. Os primeiros programas com Javascript e HTML/aula9/ingrediente.html",
+		"/Users/silvansilva/Documents/Cursos/ALURA/PROGRAMAÇAO/Lógica de programação I. Os primeiros programas com Javascript e HTML/aula9/parcelas_cartao.html",
+		"/Users/silvansilva/Documents/Cursos/ALURA/PROGRAMAÇAO/Lógica de programação I. Os primeiros programas com Javascript e HTML/aula7/jogo_adivinha.html",
+		"/Users/silvansilva/Documents/Cursos/ALURA/PROGRAMAÇAO/Lógica de programação I. Os primeiros programas com Javascript e HTML/aula9/jogadores.html",
+		"/Users/silvansilva/Documents/Cursos/ALURA/PROGRAMAÇAO/Lógica de programação I. Os primeiros programas com Javascript e HTML/aula9/letras.html",
+		"/Users/silvansilva/Documents/Cursos/ALURA/PROGRAMAÇAO/Lógica de programação I. Os primeiros programas com Javascript e HTML/aula6/anoDeCopa.html",
+		"/Users/silvansilva/Documents/Cursos/ALURA/PROGRAMAÇAO/Lógica de programação I. Os primeiros programas com Javascript e HTML/aula7/estrela.html",
+		"/Users/silvansilva/Documents/Cursos/ALURA/PROGRAMAÇAO/Lógica de programação I. Os primeiros programas com Javascript e HTML/aula7/media_dos_eventos.html",
+		"/Users/silvansilva/Documents/Cursos/ALURA/PROGRAMAÇAO/Lógica de programação I. Os primeiros programas com Javascript e HTML/aula7/mediaIdades.html",
+		"/Users/silvansilva/Documents/Cursos/ALURA/PROGRAMAÇAO/Lógica de programação I. Os primeiros programas com Javascript e HTML/aula6/carteiraDeMotorista.html",
+		"/Users/silvansilva/Documents/Cursos/ALURA/PROGRAMAÇAO/Lógica de programação I. Os primeiros programas com Javascript e HTML/aula7/anoDeCopa.html",
+		"/Users/silvansilva/Documents/Cursos/ALURA/PROGRAMAÇAO/Lógica de programação I. Os primeiros programas com Javascript e HTML/primeiro_teste.html",
+		"/Users/silvansilva/Documents/Cursos/ALURA/PROGRAMAÇAO/Lógica de programação I. Os primeiros programas com Javascript e HTML/aula6/jogo_adivinha.html",
+		"/Users/silvansilva/Documents/Cursos/ALURA/PROGRAMAÇAO/Lógica de programação I. Os primeiros programas com Javascript e HTML/aula7/multiplicacao.html",
+		"/Users/silvansilva/Documents/Cursos/ALURA/PROGRAMAÇAO/Lógica de programação I. Os primeiros programas com Javascript e HTML/aula7/login.html",
+		"/Users/silvansilva/Documents/Cursos/ALURA/PROGRAMAÇAO/Lógica de programação I. Os primeiros programas com Javascript e HTML/aula7/multiplicação.html",
+		"/Users/silvansilva/Documents/Cursos/ALURA/PROGRAMAÇAO/Lógica de programação I. Os primeiros programas com Javascript e HTML/aula7/decrementa20A0.html",
+		"/Users/silvansilva/Documents/Cursos/ALURA/PROGRAMAÇAO/Lógica de programação I. Os primeiros programas com Javascript e HTML/aula6/futebol.html",
+		"/Users/silvansilva/Documents/Cursos/ALURA/PROGRAMAÇAO/aula5/imc.html",
+		"/Users/silvansilva/Documents/Cursos/ALURA/PROGRAMAÇAO/Lógica de programação I. Os primeiros programas com Javascript e HTML/aula 4/imcExercicio.html",
+		"/Users/silvansilva/Documents/Cursos/ALURA/CIENCIA DE DADOS/Estatística I - Entenda seus dados com R/Anotação",
+		"/Users/silvansilva/Documents/Cursos/ALURA/PROGRAMAÇAO/Lógica de programação I. Os primeiros programas com Javascript e HTML/aula 4/problemaGeracoes.html",
+		"/Users/silvansilva/Documents/Cursos/ALURA/PROGRAMAÇAO/Lógica de programação I. Os primeiros programas com Javascript e HTML/aula 4/idadeDoMeuIrmão.html",
+		"/Users/silvansilva/Documents/Cursos/ALURA/PROGRAMAÇAO/Lógica de programação I. Os primeiros programas com Javascript e HTML/aula 4/exibeParagrafo.html",
+		"/Users/silvansilva/Documents/Cursos/ALURA/PROGRAMAÇAO/Lógica de programação I. Os primeiros programas com Javascript e HTML/aula 4/pulaLinha.html",
+		"/Users/silvansilva/Documents/Cursos/ALURA/PROGRAMAÇAO/Lógica de programação I. Os primeiros programas com Javascript e HTML/aula 4/fazPegadinha.html",
+		"/Users/silvansilva/Documents/Cursos/ALURA/PROGRAMAÇAO/Lógica de programação I. Os primeiros programas com Javascript e HTML/aula 4/programa.html",
+		"/Users/silvansilva/Documents/Cursos/ALURA/PROGRAMAÇAO/Lógica de programação I. Os primeiros programas com Javascript e HTML/aula 3/calcula_consumo.html",
+		"/Users/silvansilva/Documents/Cursos/ALURA/PROGRAMAÇAO/Lógica de programação I. Os primeiros programas com Javascript e HTML/aula2/programa.html",
+		"/Users/silvansilva/Documents/Cursos/ALURA/PROGRAMAÇAO/Lógica de programação I. Os primeiros programas com Javascript e HTML/tio_ben.html",
+		"/Users/silvansilva/Documents/Cursos/ALURA/PROGRAMAÇAO/Lógica de programação I. Os primeiros programas com Javascript e HTML/ANOTAÇÕES.TXT",
+		"/Users/silvansilva/Documents/Cursos/EXCEL/EXCEL 3/FORMULAS.TXT",
+		"/Users/silvansilva/Documents/Cursos/Ruby/Ruby3/mapa2.txt"
+	],
+	"find":
+	{
+		"height": 23.0
+	},
+	"find_in_files":
+	{
+		"height": 101.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 23.0
+	},
+	"input":
+	{
+		"height": 36.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.Terminus":
+	{
+		"height": 244.0
+	},
+	"output.exec":
+	{
+		"height": 86.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "Packages/C++/C++ Single File.sublime-build",
+	"project": "README.sublime-project",
+	"replace":
+	{
+		"height": 68.0
+	},
+	"save_all_on_build": false,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 153.0,
+	"status_bar_visible": false,
+	"template_settings":
+	{
+		"max_columns": 1
+	}
+}
